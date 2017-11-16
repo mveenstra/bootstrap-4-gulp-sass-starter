@@ -1,0 +1,17 @@
+
+//Bootstrap styles 
+@import "node_modules/bootstrap/scss/bootstrap";
+
+
+//Custom mixins
+@import "mixins/mixins";
+
+//GIA custom settings --
+@import "settings";
+
+
+//Component specific styles 
+@import "components/callout";
+
+//Form specific styles
+@import "forms/buttons";
