@@ -64,5 +64,5 @@ http://localhost:3000
 - [Sass: Syntactically Awesome Style Sheets](http://sass-lang.com/)
 - [Bootstrap](https://getbootstrap.com/)
 - [Handlebars](http://handlebarsjs.com/)
-- [Panini] (https://github.com/zurb/panini) 
-- [Gulp] (https://gulpjs.org/getting-started)
+- [Panini](https://github.com/zurb/panini) 
+- [Gulp](https://gulpjs.org/getting-started)
